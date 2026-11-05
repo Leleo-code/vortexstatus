@@ -1,12 +1,12 @@
 {
   "games": {
-    "gunztheduel": "Att",
-    "fortnite": "Att",
-    "cs2": "Att",
-    "bloodstrike": "Att",
-    "roblox": "Att",
-    "freefire": "Att",
-    "lineage2": "Att",
-    "pubg": "Att"
+    "gunztheduel": "On",
+    "fortnite": "Off",
+    "cs2": "Off",
+    "bloodstrike": "Off",
+    "roblox": "Off",
+    "freefire": "Off",
+    "lineage2": "Off",
+    "pubg": "Off"
   }
 }
